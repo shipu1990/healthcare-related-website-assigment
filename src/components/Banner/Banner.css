@@ -1,0 +1,19 @@
+.banner-info {
+  margin-top: 200px;
+  text-align: left;
+}
+.tagline {
+  color: #92c84c;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.banner-header {
+  font-size: 36px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.banner-para {
+  font-size: 16px;
+  line-height: 26px;
+}

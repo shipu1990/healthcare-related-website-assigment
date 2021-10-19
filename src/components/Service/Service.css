@@ -1,0 +1,54 @@
+.inner-page-tag {
+  color: #92c84c;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.inner-page-head {
+  font-size: 36px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+.inner-para {
+  font-size: 16px;
+  line-height: 26px;
+}
+.service-container {
+  width: 100%;
+  background-color: #f4f9fd;
+  padding: 80px 0;
+}
+.service-box {
+  background-color: #fff;
+  padding: 10px;
+  margin: 10px 0;
+}
+.service-head {
+  font-size: 22px;
+  text-transform: uppercase;
+  font-weight: 700;
+  padding: 15px 0 5px;
+  text-align: left;
+}
+.service-para {
+  font-size: 14px;
+  line-height: 22px;
+  text-align: left;
+}
+.service-price {
+  color: #92c84c;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: left;
+}
+a.read-more-btn {
+  color: #92c84c;
+  display: block;
+  margin-top: 18px;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 14px;
+  text-align: left;
+  text-decoration: none;
+}

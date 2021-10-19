@@ -1,0 +1,36 @@
+.common-banner-info {
+  margin-top: 120px;
+  text-align: center;
+}
+
+.about-tag {
+  color: #92c84c;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 40px;
+}
+.about-head {
+  font-size: 36px;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: left;
+  padding: 15px 0;
+}
+.about-para {
+  font-size: 16px;
+  line-height: 26px;
+  text-align: left;
+}
+ul.about-list {
+  list-style-type: none;
+  width: 100%;
+}
+ul.about-list li {
+  font-size: 16px;
+  font-weight: 600;
+  padding: 8px 0;
+  text-align: left;
+  text-transform: capitalize;
+}

@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Addison Smith",
+      "specialist": "Cardiologists",
+      "img": "https://i.ibb.co/VCsX4bX/1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sarah Taylor",
+      "specialist": "Nephrologists",
+      "img": "https://i.ibb.co/LJt7q5B/2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Aiken Ward",
+      "specialist": "Dermatologists",
+      "img": "https://i.ibb.co/BLd3z1K/3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Babatunde Jon",
+      "specialist": "Endocrinologists",
+      "img": "https://i.ibb.co/Smv0d9S/4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Eachann Jhon",
+      "specialist": "Gastroenterologists",
+      "img": "https://i.ibb.co/dMZnPKD/5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Daisy Gabriela",
+      "specialist": "Endocrinologists",
+      "img": "https://i.ibb.co/VLbCdjp/6.jpg"
+    }
+  ]

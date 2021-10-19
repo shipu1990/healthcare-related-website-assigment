@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "name": "Cardiology",
+      "img": "https://i.ibb.co/Q8h6hL2/cardiology.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.",
+      "fees": 20000
+    },
+    {
+      "id": 2,
+      "name": "General Surgery",
+      "img": "https://i.ibb.co/Tv3hkpn/general-surgery.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.",
+      "fees": 26000
+    },
+    {
+      "id": 3,
+      "name": "Gynecology",
+      "img": "https://i.ibb.co/CW63qST/gynecology.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.",
+      "fees": 32000
+    },
+    {
+      "id": 4,
+      "name": "Hematology",
+      "img": "https://i.ibb.co/SwKnsfw/hematology.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.",
+      "fees": 14000
+    },
+    {
+      "id": 5,
+      "name": "Neurology",
+      "img": "https://i.ibb.co/KsdRcsr/neurology.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.",
+      "fees": 60000
+    },
+    {
+      "id": 6,
+      "name": "Orthopedics",
+      "img": "https://i.ibb.co/Nn6SK3Z/orthopedics.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.",
+      "fees": 11000
+    },
+    {
+      "id": 7,
+      "name": "Physiotherapy",
+      "img": "https://i.ibb.co/wNhkrKv/physiotherapy.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.",
+      "fees": 6000
+    },
+    {
+      "id": 8,
+      "name": "Urology",
+      "img": "https://i.ibb.co/mB2XKFP/urology.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.",
+      "fees": 3000
+    },
+    {
+      "id": 9,
+      "name": "Sexual Health",
+      "img": "https://i.ibb.co/dLqS4ND/sexual-health.jpg",
+      "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using Content here, content here, making it look like readable English.",
+      "fees": 55000
+    }
+  ]

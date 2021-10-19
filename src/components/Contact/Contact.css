@@ -1,0 +1,11 @@
+.contact-head {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 4px 0;
+}
+.contact-para {
+  text-align: left;
+  font-size: 14px;
+  font-weight: 600;
+}

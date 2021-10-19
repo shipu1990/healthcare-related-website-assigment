@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Col, Container, Image, Row } from 'react-bootstrap';
+import {Link } from 'react-router-dom';
 import './Service.css';
 
 const Service = () => {
@@ -29,7 +30,7 @@ const Service = () => {
                         <Image src={service.img} fluid />
                         <h2 className="service-head">{service.name}</h2>
                         <p className="service-para">{service.description}</p>
-                        <a className="read-more-btn" href={`service`}>Read More</a>
+                        <Link className="read-more-btn" to ="/service">Read More</Link>
                     </div>
                     </Col>) 
                     }
